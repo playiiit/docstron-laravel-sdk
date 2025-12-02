@@ -1,4 +1,9 @@
-# Docstron Laravel SDK
+<div align="center">
+  <img height="60" src="https://docstron.com/images/png/docstron-logo.png">
+  <h1 style="margin-top: 0px;">
+    Docstron Laravel SDK
+  </h1>
+</div>
 
 A Laravel SDK for the Docstron API, allowing you to easily generate PDFs, manage templates, applications, documents, and track usage statistics.
 
